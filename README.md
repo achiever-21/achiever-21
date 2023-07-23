@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Bhavya sri
+- 👀 I’m interested in coding,
+- 🌱 I’m currently learning datastructures in python and sql
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me
+- my linkden :https://www.linkedin.com/in/polishetti-bhavya-sri-156262227/
