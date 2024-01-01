@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning datastructures in python and sql
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me
-- my linkden :https://www.linkedin.com/in/polishetti-bhavya-sri-156262227/
+- my linkden :https://www.linkedin.com/in/bhavya-sri-polishetti-282162288/
