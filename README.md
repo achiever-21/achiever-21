@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhavya sri
+- 👋 Hi, I’m Bhavya sri
 - 👀 I’m interested in coding,
 - 🌱 I’m currently learning datastructures in python and sql
 - 💞️ I’m looking to collaborate on ...
